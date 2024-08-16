@@ -1,0 +1,7 @@
+runtime: nodejs
+vm: true
+# env_variables:
+# FOREST_ENV_SECRET: '63f51525814bdfec9dd99690a656757e251770c34549c5f383d909f5cce41eb9'
+# FOREST_AUTH_SECRET: '93d33e1b2a9f9b03aeac687d5a811ac872bf145e9f2c4b28'
+# DATABASE_URL: 'postgres://user:password@remotehost:5432/db_name'
+# NODE_ENV: 'production'
