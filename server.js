@@ -6,7 +6,7 @@ const process = require('process');
 const { Pool } = require('pg');
 
 const app = express();
-const port = 3000;
+const port = 4000;
 
 // Middleware to parse JSON bodies
 app.use(bodyParser.json());
