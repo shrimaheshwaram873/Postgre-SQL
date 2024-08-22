@@ -20,7 +20,7 @@ const client = new Pool({
     user: 'postgres',
     host: 'localhost',
     database: 'postgres',
-    password: 'admin',
+    password: '123456789',
     port: 5432, // default port for PostgreSQL
   });
   
